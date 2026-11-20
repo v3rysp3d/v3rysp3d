@@ -6,6 +6,7 @@ Software engineer in Auckland, New Zealand. I work on AI implementation for soft
 
 ## Selected work
 
+- **[portfolio](https://github.com/v3rysp3d/portfolio)** — My portfolio and CV site with an AI interview persona: guardrail pipeline, model routing, an offline eval gate in CI and a public lab dashboard with a red-team log.
 - **[short-form-video-editor](https://github.com/v3rysp3d/short-form-video-editor)** — Electron + React desktop editor for 9:16 video, with a multi-track timeline, real-time canvas compositing and an FFmpeg export pipeline. 623 tests.
 - **[live-reporting](https://github.com/v3rysp3d/live-reporting)** — Talk Claude Code through an idea: it listens to your mic, watches your screen, asks questions and builds an artifact live.
 - **[GTNH-Beyond-the-Stars](https://github.com/v3rysp3d/GTNH-Beyond-the-Stars)** — A Java endgame addon for the GregTech: New Horizons modpack.
